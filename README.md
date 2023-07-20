@@ -1,6 +1,7 @@
 ## GENERAL INFORMATION ##
 
 Predictive Analytic Model
+
 WGU C964 Capstone Task 2 - Capstone Excellence Award 
 
 Dylan S. Franklin (Student ID: 001295234)   
